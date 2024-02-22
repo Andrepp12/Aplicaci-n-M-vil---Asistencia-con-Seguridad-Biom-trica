@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>748441863528-te46krjl3n9osgfj6q6oiaur8epiahrk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.748441863528-te46krjl3n9osgfj6q6oiaur8epiahrk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>748441863528-12h686hkgnvotlpn69aii7rc1nuefauu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB71VmKbUW_U7FMzWSR0LCyC-_PCvsMAKY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>748441863528</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.untBiometricAuth</string>
+	<key>PROJECT_ID</key>
+	<string>untbiometricauth-397903</string>
+	<key>STORAGE_BUCKET</key>
+	<string>untbiometricauth-397903.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:748441863528:ios:89883f1d0d1441a50c42dd</string>
+</dict>
+</plist>

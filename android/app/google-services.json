@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "748441863528",
+    "project_id": "untbiometricauth-397903",
+    "storage_bucket": "untbiometricauth-397903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748441863528:android:999c3088046b04200c42dd",
+        "android_client_info": {
+          "package_name": "com.unitru.biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748441863528-hded041erck1q2mgnbqt2r0f2pjgtqeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1S6q54CiaPxAABW8DesNlJTC8rIFC4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748441863528-hded041erck1q2mgnbqt2r0f2pjgtqeu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748441863528-te46krjl3n9osgfj6q6oiaur8epiahrk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untBiometricAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
